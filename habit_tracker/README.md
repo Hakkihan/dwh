@@ -40,8 +40,8 @@ docker run -p 5000:5000 mini-habit-tracker
 
 1. Clone the repo:
    ```bash
-   git clone <your_repo_url>
-   cd <your_repo_folder>
+   git clone <the_repo_url>
+   cd <your_preferred_repo_folder>
    ```
 2. Create and activate a virtual environment:
 python -m venv venv
