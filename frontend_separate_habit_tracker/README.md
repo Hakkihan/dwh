@@ -1,20 +1,19 @@
-# 🧠 Mini Habit Tracker
+# Habit Tracker Frontend
 
 A simple yet functional Habit Tracker app built with **React** and **TypeScript**. I added a few Playwright tests to simulate how I would approach the front end testing.
 
-## ✨ Features
+##  Features
 
-- ✅ Create new habits with optional descriptions
-- 📅 Check in daily for each habit
-- 🔥 Visualize current streaks
-- ⏱ Shows days since last check-in if not currently in a streak
-- 🧭 Fully responsive UI with smooth UX
-- 🧪 End-to-end testing using **Playwright**
-- 🔍 Accessible with semantic HTML and ARIA-friendly markup
+-  Create new habits with optional descriptions
+-  Check in daily for each habit
+-  Visualize current streaks
+-  Shows days since last check-in if not currently in a streak
+-  Fully responsive UI with smooth UX
+-  End-to-end testing approach shown using **Playwright**
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
