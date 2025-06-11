@@ -1,5 +1,6 @@
 # Habit Tracker Frontend
-![Uploading B6PaBg9ILX.gif…]()
+![B6PaBg9ILX](https://github.com/user-attachments/assets/d35b8ff7-9ed4-4b89-ab1f-001fbacac0db)
+
 
 A simple yet functional Habit Tracker app built with **React** and **TypeScript**. I added a few Playwright tests to simulate how I would approach the front end testing.
 
